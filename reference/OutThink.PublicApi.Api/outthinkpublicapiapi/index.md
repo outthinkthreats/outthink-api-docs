@@ -1,5 +1,5 @@
 ---
-title: OutThink.PublicApi.Api
+title: OutThink Analytics API
 hidden: false
 ---
 # Authentication
