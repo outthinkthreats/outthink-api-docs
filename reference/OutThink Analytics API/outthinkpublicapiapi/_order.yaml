@@ -1,5 +1,6 @@
 - authentication-1
 - rate-limiting
+- paging
 - get_base
 - get_organizations
 - get_riskoverview-users
@@ -20,4 +21,3 @@
 - get_attacksimulations-attacksimulationid-users-userid
 - get_attacksimulations-attacksimulationid-users-bulk
 - get_attacksimulations-attacksimulationid-feedbackcomments
-- paging
